@@ -1,4 +1,4 @@
-package org.example;
+package org.example.ch08;
 
 public class MyException extends Exception{
     // 에러 코드 값을 저장하기 위한 필드 추가

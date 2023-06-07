@@ -1,4 +1,4 @@
-package org.example;
+package org.example.ch07;
 
 public class InnerEx1 {
     class InstanceInner {

@@ -2,7 +2,10 @@ package org.example;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("야호");
+        String s1 = new String("A");
+        String s2 = new String("A");
+
+        System.out.println(s1 == s2);
 
     }
 
@@ -22,7 +25,7 @@ public class Main {
         String getLocation() {
             return "x :" + x + ", Y :" + y + ", z :" + z;
         }
-    }
+        }
 
 
 }

@@ -1,4 +1,4 @@
-package org.example;
+package org.example.ch07;
 
 import java.awt.*;
 import java.awt.event.ActionEvent;

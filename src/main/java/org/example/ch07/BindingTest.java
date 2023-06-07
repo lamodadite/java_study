@@ -1,4 +1,4 @@
-package org.example;
+package org.example.ch07;
 
 class BindingTest{
     public static void main(String[] args) {

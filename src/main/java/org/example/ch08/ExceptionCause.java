@@ -1,4 +1,4 @@
-package org.example;
+package org.example.ch08;
 
 public class ExceptionCause {
     public static void main(String[] args) {

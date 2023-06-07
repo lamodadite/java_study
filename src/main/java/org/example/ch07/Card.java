@@ -1,4 +1,4 @@
-package org.example;
+package org.example.ch07;
 
 public class Card {
     static int width = 100;

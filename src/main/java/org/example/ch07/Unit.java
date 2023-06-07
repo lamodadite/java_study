@@ -1,4 +1,4 @@
-package org.example;
+package org.example.ch07;
 
 abstract class Unit {
     int x, y;
